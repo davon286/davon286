@@ -1,5 +1,5 @@
 <a target="_blank" href ="http://www.davonm.com/">
-    <img src="images/header-engineer-mathematician.png">
+    <img src="images/banner.png">
 </a>
 
 ## Connect with me
