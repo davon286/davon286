@@ -21,7 +21,7 @@
             <h3>Omnifood</h3>
             <p> 
                 <strong> Tech Used: </strong> HTML, CSS, and JavaScript <br />
-                <strong> Purpose: </strong> Omnifood is a website that is advertised as a food delivery service. The purpose of it is to sell the costumer this service with healthy food options. <br />
+                <strong> Purpose: </strong> Omnifood is a fully responsive website that is advertised as a food delivery service. The purpose of it is to sell the costumer this service with healthy food options. <br />
                  <strong> Links: </strong> <a target="_blank" href="https://davon286.github.io/Omnifood/">Website</a> // <a target="_blank" href="https://github.com/davon286/Omnifood">Repo</a><br />
             </p>
             <a target="_blank" href="https://davon286.github.io/Omnifood/">
@@ -29,27 +29,27 @@
             </a>
         </td>
         <td width="50%">
-            <h3>Omnifood</h3>
+            <h3>Acme</h3>
             <p> 
-                <strong> Tech Used: </strong> HTML, CSS, and JavaScript <br />
-                <strong> Purpose: </strong> Omnifood is a website that is advertised as a food delivery service. The purpose of it is to sell the costumer this service with healthy food options. <br />
-                 <strong> Links: </strong> <a target="_blank" href="https://davon286.github.io/Omnifood/">Website</a> // <a target="_blank" href="https://github.com/davon286/Omnifood">Repo</a><br />
+                <strong> Tech Used: </strong> HTML, CSS <br />
+                <strong> Purpose: </strong>Acme is a fully responsive website sample website that sells web services to a customer. <br />
+                 <strong> Links: </strong> <a target="_blank" href="https://davon286.github.io/amce-web-design/index.html">Website</a> // <a target="_blank" href="https://github.com/davon286/Omnifood">Repo</a><br />
             </p>
-            <a target="_blank" href="https://davon286.github.io/Omnifood/">
-                <img src="images/omnifood.jpg" width="75%" alt="screenshot of omnifood homepage"/>
+            <a target="_blank" href="https://davon286.github.io/amce-web-design/index.html">
+                <img src="images/acme.jpeg" width="75%" alt="screenshot of omnifood homepage"/>
             </a>
         </td>
     </tr>
     <tr>
          <td width="50%">
-            <h3>Omnifood</h3>
+            <h3>Quote Generator</h3>
             <p> 
                 <strong> Tech Used: </strong> HTML, CSS, and JavaScript <br />
-                <strong> Purpose: </strong> Omnifood is a website that is advertised as a food delivery service. The purpose of it is to sell the costumer this service with healthy food options. <br />
-                 <strong> Links: </strong> <a target="_blank" href="https://davon286.github.io/Omnifood/">Website</a> // <a target="_blank" href="https://github.com/davon286/Omnifood">Repo</a><br />
+                <strong> Purpose: </strong> Quote Generator is a fully responsive web application that uses JavaScript to generate quotes from an API at random. It also allows the user to Tweet the quotes. <br />
+                 <strong> Links: </strong> <a target="_blank" href="https://davon286.github.io/JavaScript-Quote-Generator/">Website</a> // <a target="_blank" href="https://github.com/davon286/JavaScript-Quote-Generator">Repo</a><br />
             </p>
-            <a target="_blank" href="https://davon286.github.io/Omnifood/">
-                <img src="images/omnifood.jpg" width="75%" alt="screenshot of omnifood homepage"/>
+            <a target="_blank" href="https://davon286.github.io/JavaScript-Quote-Generator/">
+                <img src="images/quotegen.jpeg" width="75%" alt="screenshot of omnifood homepage"/>
             </a>
         </td>
      <td width="50%">
