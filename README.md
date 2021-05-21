@@ -5,7 +5,7 @@
 ## Connect with me
 
 <p align="center">
-    <a target="_blank" href="http://www.davon.com/">
+    <a target="_blank" href="http://www.davonm.com/">
         <img src="https://img.shields.io/badge/portfolio-view-90ee90?style=for-the-badge" alt="Portfolio Site" />
     </a>
     <a target="_blank" href="https://www.linkedin.com/in/davon-mcleod-693252131/">
