@@ -49,7 +49,7 @@
                  <strong> Links: </strong> <a target="_blank" href="https://davon286.github.io/JavaScript-Quote-Generator/">Website</a> // <a target="_blank" href="https://github.com/davon286/JavaScript-Quote-Generator">Repo</a><br />
             </p>
             <a target="_blank" href="https://davon286.github.io/JavaScript-Quote-Generator/">
-                <img src="images/quotegen.jpeg" width="75%" alt="screenshot of omnifood homepage"/>
+                <img src="images/quotegen.jpg" width="75%" alt="screenshot of omnifood homepage"/>
             </a>
         </td>
      <td width="50%">
