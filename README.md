@@ -53,14 +53,14 @@
             </a>
         </td>
      <td width="50%">
-            <h3>Omnifood</h3>
+            <h3>CRWN Clothing</h3>
             <p> 
-                <strong> Tech Used: </strong> HTML, CSS, and JavaScript <br />
-                <strong> Purpose: </strong> Omnifood is a website that is advertised as a food delivery service. The purpose of it is to sell the costumer this service with healthy food options. <br />
-                 <strong> Links: </strong> <a target="_blank" href="https://davon286.github.io/Omnifood/">Website</a> // <a target="_blank" href="https://github.com/davon286/Omnifood">Repo</a><br />
+                <strong> Tech Used: </strong> React, SASS, HTML <br />
+                <strong> Purpose: </strong> CRWN Clothing is an E-Commerce Web application that allows customers to purchase clothing. Users can add item to their cart, change the quantities, and process transactions using STRIPE. In addition, users are able to register and sign in with Google. <br />
+                 <strong> Links: </strong> <a target="_blank" href="https://serene-swirles-197d80.netlify.app/">Website</a> // <a target="_blank" href="https://github.com/davon286/crown-clothing">Repo</a><br />
             </p>
             <a target="_blank" href="https://davon286.github.io/Omnifood/">
-                <img src="images/omnifood.jpg" width="75%" alt="screenshot of omnifood homepage"/>
+                <img src="images/crown-clothing.jpg" width="75%" alt="screenshot of crown clothing homepage"/>
             </a>
         </td>
     </tr>
