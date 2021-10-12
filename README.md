@@ -55,7 +55,7 @@
      <td width="50%">
             <h3>CRWN Clothing</h3>
             <p> 
-                <strong> Tech Used: </strong> React, Redux, SASS, HTML, Node, Git, Netlify <br />
+                <strong> Tech Used: </strong> React, Redux, SASS, HTML, Node, Git, Github, Netlify <br />
                 <strong> Purpose: </strong> CRWN Clothing is an E-Commerce Web application that allows customers to purchase clothing. Users can add item to their cart, change the quantities, and process transactions using STRIPE. In addition, users are able to register and sign in with Google. <br />
                  <strong> Links: </strong> <a target="_blank" href="https://serene-swirles-197d80.netlify.app/">Website</a> // <a target="_blank" href="https://github.com/davon286/crown-clothing">Repo</a><br />
             </p>
