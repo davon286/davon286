@@ -20,7 +20,7 @@
         <td width="50%">
             <h3>Omnifood</h3>
             <p> 
-                <strong> Tech Used: </strong> HTML, CSS, and JavaScript <br />
+                <strong> Tech Used: </strong> HTML, CSS, JavaScript, Git, Github <br />
                 <strong> Purpose: </strong> Omnifood is a fully responsive website that is advertised as a food delivery service. The purpose of it is to sell the costumer this service with healthy food options. <br />
                  <strong> Links: </strong> <a target="_blank" href="https://davon286.github.io/Omnifood/">Website</a> // <a target="_blank" href="https://github.com/davon286/Omnifood">Repo</a><br />
             </p>
@@ -31,7 +31,7 @@
         <td width="50%">
             <h3>Acme</h3>
             <p> 
-                <strong> Tech Used: </strong> HTML, CSS <br />
+                <strong> Tech Used: </strong> HTML, CSS, Git, Github <br />
                 <strong> Purpose: </strong>Acme is a fully responsive website sample website that sells web services to a customer. <br />
                  <strong> Links: </strong> <a target="_blank" href="https://davon286.github.io/amce-web-design/index.html">Website</a> // <a target="_blank" href="https://github.com/davon286/Omnifood">Repo</a><br />
             </p>
@@ -44,7 +44,7 @@
          <td width="50%">
             <h3>Quote Generator</h3>
             <p> 
-                <strong> Tech Used: </strong> HTML, CSS, and JavaScript <br />
+                <strong> Tech Used: </strong> HTML, CSS, JavaScript, Git, Github <br />
                 <strong> Purpose: </strong> Quote Generator is a fully responsive web application that uses JavaScript to generate quotes from an API at random. It also allows the user to Tweet the quotes. <br />
                  <strong> Links: </strong> <a target="_blank" href="https://davon286.github.io/JavaScript-Quote-Generator/">Website</a> // <a target="_blank" href="https://github.com/davon286/JavaScript-Quote-Generator">Repo</a><br />
             </p>
@@ -55,11 +55,11 @@
      <td width="50%">
             <h3>CRWN Clothing</h3>
             <p> 
-                <strong> Tech Used: </strong> React, SASS, HTML <br />
+                <strong> Tech Used: </strong> React, Redux, SASS, HTML, Node, Git, Netlify <br />
                 <strong> Purpose: </strong> CRWN Clothing is an E-Commerce Web application that allows customers to purchase clothing. Users can add item to their cart, change the quantities, and process transactions using STRIPE. In addition, users are able to register and sign in with Google. <br />
                  <strong> Links: </strong> <a target="_blank" href="https://serene-swirles-197d80.netlify.app/">Website</a> // <a target="_blank" href="https://github.com/davon286/crown-clothing">Repo</a><br />
             </p>
-            <a target="_blank" href="https://davon286.github.io/Omnifood/">
+            <a target="_blank" href="https://serene-swirles-197d80.netlify.app/">
                 <img src="images/crown-clothing.jpg" width="75%" alt="screenshot of crown clothing homepage"/>
             </a>
         </td>
